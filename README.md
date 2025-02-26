@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Me chamo Felipe da Silva Barroso, tenho 25 anos e sou natural de Salvador, Bahia. Concluí o ensino médio no Colégio Estadual José Augusto Tourinho Dantas. Atualmente, estou cursando Tecnologia Superior em Ciência de Dados na Cruzeiro do Sul. Sou fã por tecnologia. compartilho meu conhecimento através do meu canal no YouTube "[Felipe Walker](https://www.youtube.com/@felipewalker8842)", onde ensino a criar projetos web.
+Me chamo Felipe da Silva Barroso, tenho 25 anos e sou natural de Salvador, Bahia. Concluí o ensino médio no Colégio Estadual José Augusto Tourinho Dantas. Atualmente, estou cursando Tecnologia Superior em Ciência de Dados na Cruzeiro do Sul. Sou fã por tecnologia. gosto e compartilho algumas experiências de diversão e aprendizado através do meu canal no YouTube "[Felipe Walker](https://www.youtube.com/@felipewalker8842)"
 <p align="left">
     <a href="https://www.youtube.com/@felipewalker8842?sub_confirmation=1">
         <img 
